@@ -14,7 +14,7 @@ Term: Fall 2020
 	+ Natalie Williams
 	+ Tianle Zhu
 
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This project explores different causal inference algorithms in details through manual implementations in Python and estimation of propensty scores. The algorithms include full matching using three distance metrics Mahalanobis, propensity score and linear propensity score, Inverse Propensity Weighting and Stratification. Details of implementation and explanation of each alogorithm used can be found in the doc folder of the repository, as well as a project report. 
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
