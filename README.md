@@ -16,7 +16,7 @@ Term: Fall 2020
 
 + Project summary: This project explores different causal inference algorithms in details through manual implementations in Python and estimation of propensty scores. The algorithms include full matching using three distance metrics Mahalanobis, propensity score and linear propensity score, Inverse Propensity Weighting and Stratification. Through fitting and estmating the propensity scores using two datasets and comparing the estimtaed ATE scores and the true ATE scores and the computer runtime, conclusions of an outperforming algorithm were reached. Details of implementation and evaluation of each alogorithm used can be found in the doc folder of the repository, as well as a project report explaning the background and supplementary information regarding each algorithm and metric. 
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Rohan Uppuluri: worked on implementing full matching using the Mahalanobis, propensity score, and linear propensity score metrics with Elise. Rohan also wrote the explanation of the concept of full matching and the Mahalanobis metric documentation in the main notebook and in the presentation.
 
