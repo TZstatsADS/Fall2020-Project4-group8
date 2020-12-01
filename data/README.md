@@ -1,4 +1,4 @@
 ### Data folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
+The lowDim_dataset.csv file contains a 475x24 dataset with 22 features, an indicator treatment/control column, and a continuous response. The highDim_dataset.csv file contains a 2000x187 dataset with 185 features, an indicator treatment/control column, and a continuous response.
 
