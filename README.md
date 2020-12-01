@@ -18,12 +18,15 @@ Term: Fall 2020
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Rohan Uppuluri worked on implementing full matching using the Mahalanobis, propensity score, and linear propensity score metrics with Elise. Rohan also wrote the explanation of the concept of full matching and the Mahalanobis metric documentation in the main notebook and in the presentation.
+Rohan Uppuluri: worked on implementing full matching using the Mahalanobis, propensity score, and linear propensity score metrics with Elise. Rohan also wrote the explanation of the concept of full matching and the Mahalanobis metric documentation in the main notebook and in the presentation.
 
 Linh Nguyen: found documentation on Full matching function in R and how to use R in Python for Rohan to implement. Implemented full matching using the Mahalanobis, propensity score, and linear propensity score metrics on high dimensional dataset; Compiled Main notebook, added to documentation on full matching, propensity score and linear propensity score in the Main notebook & powerpoint presentation. Put together outline for written report and ppt presentation & installation instructions.  
 
-Natalie Williams implemented the stratify algorithm and ATE calculation from stratification algorithm.
+Natalie Williams: implemented the stratify algorithm and ATE calculation from stratification algorithm.
 
+Tianle Zhu: implemented the inverse propensity weighting algorithm with Xinying Feng and wrote the explanation of IPW in the main file, the report, and PowerPoint.
+
+Mina Jiang: participated in the debugging of the implementation of stratification algorithm; wrote explanation of the stratification algorithm in the report; completed slides on evaluation and stratification part in the PowerPoint; wrote README file in the GitHub repository. 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
