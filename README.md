@@ -14,7 +14,7 @@ Term: Fall 2020
 	+ Natalie Williams
 	+ Tianle Zhu
 
-+ Project summary: This project explores different causal inference algorithms in details through manual implementations in Python and estimation of propensty scores. The algorithms include full matching using three distance metrics Mahalanobis, propensity score and linear propensity score, Inverse Propensity Weighting and Stratification. Details of implementation and explanation of each alogorithm used can be found in the doc folder of the repository, as well as a project report. 
++ Project summary: This project explores different causal inference algorithms in details through manual implementations in Python and estimation of propensty scores. The algorithms include full matching using three distance metrics Mahalanobis, propensity score and linear propensity score, Inverse Propensity Weighting and Stratification. Through fitting and estmating the propensity scores using two datasets and comparing the estimtaed ATE scores and the true ATE scores and the computer runtime, conclusions of an outperforming algorithm were reached. Details of implementation and evaluation of each alogorithm used can be found in the doc folder of the repository, as well as a project report explaning the background and supplementary information regarding each algorithm and metric. 
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
@@ -26,7 +26,7 @@ Natalie Williams: implemented the stratify algorithm and ATE calculation from st
 
 Tianle Zhu: implemented the inverse propensity weighting algorithm with Xinying Feng and wrote the explanation of IPW in the main file, the report, and PowerPoint.
 
-Mina Jiang: participated in the debugging of the implementation of stratification algorithm; wrote explanation of the stratification algorithm in the report; completed slides on explaining the stratification algorithm and overall algorithm evaluation in the PowerPoint; complete the README file with project summary and explanation for the group.
+Mina Jiang: participated in the debugging of the implementation of stratification algorithm; wrote explanation of the stratification algorithm in the report; completed slides on explaining the stratification algorithm and overall algorithm evaluation in the PowerPoint; completed the README file with project summary and explanation for the group.
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
