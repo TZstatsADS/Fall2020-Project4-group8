@@ -26,7 +26,7 @@ Natalie Williams: implemented the stratify algorithm and ATE calculation from st
 
 Tianle Zhu: implemented the inverse propensity weighting algorithm with Xinying Feng and wrote the explanation of IPW in the main file, the report, and PowerPoint.
 
-Mina Jiang: participated in the debugging of the implementation of stratification algorithm; wrote explanation of the stratification algorithm in the report; completed slides on evaluation and stratification part in the PowerPoint; wrote README file in the GitHub repository. 
+Mina Jiang: participated in the debugging of the implementation of stratification algorithm; wrote explanation of the stratification algorithm in the report; completed slides on explaining the stratification algorithm and overall algorithm evaluation in the PowerPoint; wrote README file in the GitHub repository. 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
