@@ -5,7 +5,7 @@
 Term: Fall 2020
 
 + Team # 8
-+ Project title: Causal Inference Algorithms Evaluation
++ Project title: Causal Inference Algorithm Implementation and Evaluation
 + Team members
 	+ Xinying Feng
 	+ Mina Jiang
