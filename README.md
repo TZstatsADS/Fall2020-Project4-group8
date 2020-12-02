@@ -28,6 +28,8 @@ Tianle Zhu: implemented the inverse propensity weighting algorithm with Xinying 
 
 Mina Jiang: participated in the debugging of the implementation of stratification algorithm; wrote explanation of the stratification algorithm in the report; completed slides on explaining the stratification algorithm and overall algorithm evaluation in the PowerPoint; completed the README file with project summary and explanation for the group.
 
+Xinying Feng: implemented the inverse propensity weighting algorithm with Tianle Zhu and contribute to the calculation of propensity score.
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
