@@ -1,4 +1,4 @@
 ### Data folder
 
-The lowDim_dataset.csv file contains a 475x24 dataset with 22 features, an indicator treatment/control column, and a continuous response. The highDim_dataset.csv file contains a 2000x187 dataset with 185 features, an indicator treatment/control column, and a continuous response.
+The data directory contains the data used in the analysis. Because of the copyright issues with the images, we have not uploaded them to the data folder, so this folder is empty.
 
